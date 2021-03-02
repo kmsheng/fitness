@@ -44,3 +44,30 @@
     - 15kg * 10
     - 15kg * 10
     - 頂峰收縮 ( Isometric )
+
+# 背 ( Back )
+ - cable 單邊下拉（ Seated One Arm Side Row ）
+   - 6.25kg * 15
+   - 11.25kg * 15
+   - 16.25kg * 15
+   - 18.25kg * 15
+
+ - 滑輪下拉 ( Pull Down Machine )
+   - 33kg * 12
+   - 40kg * 12
+   - 47kg * 12
+   - 47kg * 12 (最後一組遞減兩次每次少兩格重量）
+
+ - 坐式划船（單邊、專注下背闊）( One Arm Seated Row ) 
+   - 11kg * 12
+   - 15kg * 12
+   - 22kg * 12
+   - 22kg * 12
+
+- cable 划船（ Seated Cable Row ）
+  - 40kg * 12
+  - 40kg * 12
+  - 40kg * 12
+  - 40kg * 12
+
+# 肩
